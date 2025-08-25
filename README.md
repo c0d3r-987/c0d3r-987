@@ -1,14 +1,14 @@
-Aspiring Self‑Taught Linux DevOps Engineer 🐧
+# Aspiring Self‑Taught Linux Cloud Engineer/SRE 🐧
 
-Building and testing reliable infrastructure with Infrastructure-as-Code, automation, and observability — portfolio of hands-on projects demonstrating practical skills and readiness for junior DevOps / SRE roles.
-What I do
+## Building and testing reliable infrastructure with Infrastructure-as-Code, automation, and observability — portfolio of hands-on projects demonstrating practical   skills and readiness for Cloud / SRE roles.
 
-    Design and provision reproducible infrastructure using Terraform and modular IaC patterns 🌱
-    Automate provisioning and deployments with Ansible and shell scripting 🤖
-    Create CI/CD pipelines and automated tests with GitHub Actions & GitLab CI 🔁
-    Containerise applications with Docker and run demo clusters on Kubernetes (manifests & Helm) 🐳☸️
-    Implement monitoring and logging with Prometheus, Grafana, and ELK for observability 📈🧾
-    Operate and troubleshoot Linux systems (Ubuntu, CentOS), networking, and system services 🖥️
+**What I do**
+    - Design and provision reproducible infrastructure using Terraform and modular IaC patterns 🌱
+    - Automate provisioning and deployments with Ansible and shell scripting 🤖
+    - Create CI/CD pipelines and automated tests with GitHub Actions & GitLab CI 🔁
+    - Containerise applications with Docker and run demo clusters on Kubernetes (manifests & Helm) 🐳☸️
+    - Implement monitoring and logging with Prometheus, Grafana, and ELK for observability 📈🧾
+    - Operate and troubleshoot Linux systems (Ubuntu, CentOS), networking, and system services 🖥️
     
 <!--
 **c0d3r-987/c0d3r-987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
